@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkotlyarenko
-- 👀 I’m interested in Android development amd many others
+- 👀 I’m interested in Android development and many others
 - 🌱 I’m currently learning at college
 
 <!---
