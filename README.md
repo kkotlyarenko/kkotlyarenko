@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @kkotlyarenko
-- 👀 I’m interested in Android development and many others
-- 🌱 I’m currently learning at college
+ITMO FSECS student
 
 <!---
 kkotlyarenko/kkotlyarenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
